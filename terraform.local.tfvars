@@ -84,7 +84,7 @@ landing_zone_components = {
 
 landing_zone_providers = {
   default = {
-    account_id = "123456789012"
+    account_id = "522585673035"
     region     = "us-east-1"
   }
   #  ,sample = {
